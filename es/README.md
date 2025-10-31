@@ -29,10 +29,10 @@ Este curso está alineado con el **Marco de Competencias en IA de UNESCO para Do
 ## 🎓 ¿Para Quién es Este Curso?
 
 - **Maestros de primaria** (1º-6º grado) que buscan ahorrar tiempo y mejorar la instrucción
-- **Maestros de secundaria** (7º-12º grado) que desean integrar IA en todas las materias
+- **Maestros de secundaria y preparatoria** (7º-12º grado) que desean integrar IA en todas las materias
 - **Maestros de educación especial** que buscan herramientas para diferenciación y personalización
-- **Asesores pedagógicos** que se preparan para apoyar a colegas con la integración de IA
-- **Administradores escolares** que necesitan entender la IA para políticas y desarrollo profesional
+- **Asesores pedagógicos y coordinadores académicos** que se preparan para apoyar a colegas con la integración de IA
+- **Directores y administradores escolares** que necesitan entender la IA para políticas y desarrollo profesional
 - **Formadores de docentes** que quieren preparar a futuros maestros para aulas potenciadas con IA
 
 **¡No se requiere experiencia previa en IA!** Este curso comienza desde lo básico y avanza progresivamente.
@@ -105,7 +105,7 @@ Al final de este curso de 6 semanas, los educadores podrán:
 **Tema:** Personaliza el Aprendizaje para Cada Estudiante
 
 - Adaptación de contenido a múltiples niveles de lectura
-- Apoyo a estudiantes de español como segunda lengua y estudiantes con discapacidades
+- Apoyo a estudiantes multilingües y estudiantes con necesidades educativas especiales
 - Creación de apoyos visuales (mapas mentales, organizadores gráficos)
 - Diseño Universal para el Aprendizaje (DUA) + IA
 - **Asignación:** Materiales diferenciados para 3 perfiles de estudiantes
@@ -172,8 +172,8 @@ Al completar exitosamente el curso, los participantes obtienen:
 **Diferenciación:**
 - Adaptar textos a múltiples niveles de lectura
 - Crear asignaciones escalonadas
-- Apoyar estudiantes ELL y educación especial
-- Diseñar apoyos visuales y organizadores
+- Apoyar estudiantes multilingües y con necesidades educativas especiales
+- Diseñar apoyos visuales y organizadores gráficos
 
 **Tareas Administrativas:**
 - Redactar correos electrónicos de comunicación con padres
@@ -360,20 +360,21 @@ Ve [`CONTRIBUTING.md`](/CONTRIBUTING.md) para lineamientos (próximamente).
 ## 💰 Precios y Acceso
 
 ### Inscripción Individual
-- **Precio:** $7,980 MXN (~$399 USD)
+- **Precio:** A consultar según país y cohorte
 - **Incluye:** Acceso completo al curso, talleres en vivo, certificación, comunidad de exalumnos por 1 año
-- **Planes de pago:** Disponibles
+- **Planes de pago:** Disponibles para facilitar el acceso
 
-### Paquetes para Escuelas/Distritos
-- **10-49 maestros:** $5,980 MXN por maestro
-- **50-99 maestros:** $5,000 MXN por maestro + $50,000 MXN cuota de configuración
-- **100+ maestros:** Precio personalizado
+### Paquetes para Escuelas/Instituciones
+- **10-49 maestros:** Tarifa preferencial por maestro
+- **50-99 maestros:** Tarifa institucional + cuota de configuración
+- **100+ maestros:** Precio personalizado con descuentos significativos
 - **Incluye:** Panel de administración, incorporación personalizada, análisis de uso, plantillas de políticas
 
-### Becas
-- **10% de lugares** reservados para maestros de escuelas de Título I
+### Becas y Apoyos
+- **10% de lugares** reservados para maestros de escuelas públicas con recursos limitados
 - **Descuentos basados en necesidad** disponibles al solicitarlos
-- **Apoyo para becas:** Lenguaje de ejemplo para becas proporcionado
+- **Apoyo para becas:** Lenguaje de ejemplo para solicitudes de becas proporcionado
+- **Alianzas institucionales:** Trabajamos con secretarías de educación y ministerios para facilitar el acceso
 
 ---
 
@@ -381,14 +382,14 @@ Ve [`CONTRIBUTING.md`](/CONTRIBUTING.md) para lineamientos (próximamente).
 
 **Líder del Proyecto:** Dra. Gabriela González
 **Organización:** AcademIA Consulting
-**Correo electrónico:** [Insertar correo]
-**Sitio web:** [Insertar sitio web]
+**Correo electrónico:** info@academiaconsulting.com
+**Sitio web:** [Próximamente]
 
 **Para:**
-- Inscripción al curso: [correo de inscripción]
-- Asociaciones con escuelas/distritos: [correo de asociaciones]
-- Soporte técnico: [correo de soporte]
-- Consultas de medios: [correo de medios]
+- Inscripción al curso: contacto@academiaconsulting.com
+- Asociaciones con escuelas/instituciones: alianzas@academiaconsulting.com
+- Soporte técnico: soporte@academiaconsulting.com
+- Consultas de medios: medios@academiaconsulting.com
 
 ---
 

@@ -281,7 +281,7 @@ Crear evaluación formativa, evaluación sumativa y rúbrica para unidad próxim
 ### Objetivos de Aprendizaje
 
 - Adaptar contenido a múltiples niveles de lectura usando IA
-- Crear apoyos para estudiantes ELL y estudiantes con discapacidades
+- Crear apoyos para estudiantes multilingües y estudiantes con necesidades educativas especiales
 - Generar organizadores visuales y gráficos con asistencia de IA
 - Aplicar principios de DUA (Diseño Universal para el Aprendizaje) con herramientas de IA
 - Diseñar actividades escalonadas para perfiles diversos de estudiantes
@@ -290,7 +290,7 @@ Crear evaluación formativa, evaluación sumativa y rúbrica para unidad próxim
 
 **Videos (70 min):**
 1. Adaptación de Textos a Múltiples Niveles (20 min)
-2. Apoyo a Estudiantes ELL con IA (15 min)
+2. Apoyo a Estudiantes Multilingües con IA (15 min)
 3. Creación de Apoyos Visuales y Organizadores (15 min)
 4. DUA + IA: Múltiples Medios de Representación y Expresión (20 min)
 
@@ -299,7 +299,7 @@ Crear evaluación formativa, evaluación sumativa y rúbrica para unidad próxim
 - Guía: Diferenciación Culturalmente Responsiva con IA
 
 **Actividades:**
-- Adaptar pasaje de lectura a 3 niveles
+- Adaptar un texto de lectura a 3 niveles diferentes
 - Crear banco de vocabulario con apoyos visuales
 - Diseñar actividad escalonada para tema de tu elección
 
@@ -312,7 +312,7 @@ Crear evaluación formativa, evaluación sumativa y rúbrica para unidad próxim
 
 ### Asignación: Conjunto de Materiales Diferenciados (2-3 horas)
 
-Crear materiales para 3 perfiles diferentes de estudiantes (e.j., leyendo por debajo del nivel, en nivel, avanzado; o principiante ELL, intermedio, avanzado).
+Crear materiales para 3 perfiles diferentes de estudiantes (ej., nivel de lectura básico, intermedio, avanzado; o estudiante multilingüe principiante, intermedio, avanzado).
 
 **Puntos:** 25 puntos
 
@@ -528,17 +528,17 @@ Diseñar una unidad instruccional completa de 3-5 días sobre tema de tu elecci�
 
 ### Cronograma de Muestra (6 Semanas)
 
-| Semana | Fechas | Tema | Entrega |
-|--------|--------|------|---------|
-| 1 | Nov 4-10 | Fundamentos de IA | Asignación Semana 1 (Nov 10) |
-| 2 | Nov 11-17 | Planificación de Lecciones | Asignación Semana 2 (Nov 17) |
-| 3 | Nov 18-24 | Evaluación y Retroalimentación | Asignación Semana 3 (Nov 24) |
-| 4 | Nov 25-Dic 1 | Diferenciación | Asignación Semana 4 (Dic 1) |
-| 5 | Dic 2-8 | Ética y Alfabetización Crítica | Asignación Semana 5 (Dic 8) |
-| 6 | Dic 9-15 | Integración y Proyecto Final | Proyecto Final (Dic 15) |
+| Semana | Tema | Entrega |
+|--------|------|---------|
+| 1 | Fundamentos de IA | Asignación Semana 1 (Domingo final de la semana) |
+| 2 | Planificación de Lecciones | Asignación Semana 2 (Domingo final de la semana) |
+| 3 | Evaluación y Retroalimentación | Asignación Semana 3 (Domingo final de la semana) |
+| 4 | Diferenciación | Asignación Semana 4 (Domingo final de la semana) |
+| 5 | Ética y Alfabetización Crítica | Asignación Semana 5 (Domingo final de la semana) |
+| 6 | Integración y Proyecto Final | Proyecto Final (Domingo final de la semana) |
 
-**Horarios de Talleres:** [A determinar según zona horaria]
-**Horarios de Oficina:** [A determinar]
+**Horarios de Talleres:** Se determinarán al inicio de cada cohorte según zona horaria
+**Horarios de Oficina:** Se determinarán al inicio de cada cohorte
 
 ---
 

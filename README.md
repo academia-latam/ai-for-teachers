@@ -9,25 +9,29 @@
 
 ### [🇬🇧 English Version](./en/)
 **Status:** Sample/Reference Implementation
+**Estado:** Implementación de Muestra/Referencia
 Access the English version of this UNESCO-aligned AI literacy course for K-12 teachers.
+Accede a la versión en inglés de este curso de alfabetización en IA alineado con UNESCO para profesores de primaria y secundaria.
 
 ### [🇪🇸 Versión en Español](./es/)
 **Estado:** Versión Principal
+**Status:** Main Version
 Accede a la versión en español de este curso de alfabetización en IA alineado con UNESCO para profesores de primaria y secundaria.
+Access the Spanish version of this UNESCO-aligned AI literacy course for primary and secondary school teachers.
 
 ---
 
 ## About This Project / Sobre Este Proyecto
 
-**English:**
-Professional AI Literacy for Educators is a 6-week certification program designed specifically for primary and secondary public school teachers who want to integrate artificial intelligence into their teaching practice ethically, effectively, and practically.
-
-This course is aligned with the **UNESCO AI Competency Framework for Teachers (2024)** and focuses on the **"Acquire"** level - foundational AI literacy that all teachers need in the age of intelligent technologies.
-
 **Español:**
 Alfabetización Profesional en IA para Educadores es un programa de certificación de 6 semanas diseñado específicamente para profesores de escuelas públicas primarias y secundarias que desean integrar la inteligencia artificial en su práctica docente de manera ética, efectiva y práctica.
 
 Este curso está alineado con el **Marco de Competencias en IA de UNESCO para Docentes (2024)** y se enfoca en el nivel **"Adquirir"** - alfabetización fundamental en IA que todos los docentes necesitan en la era de las tecnologías inteligentes.
+
+**English:**
+Professional AI Literacy for Educators is a 6-week certification program designed specifically for primary and secondary public school teachers who want to integrate artificial intelligence into their teaching practice ethically, effectively, and practically.
+
+This course is aligned with the **UNESCO AI Competency Framework for Teachers (2024)** and focuses on the **"Acquire"** level - foundational AI literacy that all teachers need in the age of intelligent technologies.
 
 ---
 
